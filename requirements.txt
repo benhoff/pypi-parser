@@ -1,0 +1,2 @@
+requests==2.7.0
+simpleyapsy==0.0.1
